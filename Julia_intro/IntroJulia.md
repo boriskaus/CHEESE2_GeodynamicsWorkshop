@@ -35,7 +35,7 @@ This will take a bit of time initially, as it needs to compile. Once that is don
 
 ![](julia_init.png)
 
-Make sure that the julia environment at the bottom is 1.9 (unlike the picture above which is a bit out of date).
+Make sure that the julia environment at the bottom is 1.10 (unlike the picture above which is a bit out of date).
 
 ## 3. First steps
 
@@ -510,11 +510,11 @@ A simple example is the following `test1.jl` script:
 Note that the rosenbrock function has optional parameters (`a,b`). Calling it with only `X,Y` will invoke the default parameters, but you can specify the optional ones with `f=rosenbrock(x,y, b=200,a=3)`.
 You can run this script in the julia in the following way:
  ```julia
- include("test1.jl")
+ julia> include("test1.jl")
  ```
 Be aware that you need to be in the same directory as the script (see below on how you can change directories using the build-in shell in julia, by typing `;` in the REPL).
 The result looks like (have a look at how we customized the colormap, and added info for the axes).
-![](Rosenbrovck.png)
+![](Rosenbrock.png)
 
 ## 9. Getting help
 
