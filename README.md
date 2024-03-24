@@ -1,6 +1,6 @@
-# CHEESE-2p workshop on Computational Geodynamics
+# ChEESE-2P workshop on Computational Geodynamics
 
-This repository contains material and scripts for the workshop _Computational Geodynamics: Modeling Geological Processes using European Flagship Codes_ at the Johannes Gutenberg University, Mainz.
+This repository contains material and scripts for the workshop _Computational Geodynamics: Modeling Geological Processes using European Flagship Codes_ at the Johannes Gutenberg University, Mainz. The workshop is part of the [ChEESE2](https://cheese2.eu) consortium, and attendees will learn how to use the parallel codes [LaMEM](https://github.com/UniMainzGeo/LaMEM) and [pTatin](https://bitbucket.org/dmay/ptatin-total-dev.git) to perform 2D and 3D geodynamic simulations.
 
 It is an in-person event, and will happen in room 01-114 of the NatFak (Geosciences) building of the Johannes Gutenberg University, Mainz. The address is Johann-Joachim-Becher-Weg 21, 55128 Mainz. [Here](https://www.geosciences.uni-mainz.de/how-to-find-us/) are instructions on how to find us.
 
