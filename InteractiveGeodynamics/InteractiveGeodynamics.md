@@ -59,6 +59,19 @@ Lets consider a case with 2 or more layers. If they are far apart and thin, they
 
 
 
-
 ### 3. Convection dynamics
-In our final example we will look at convection on different scales. Compared to the 
+In our final example we will look at convection on different scales.
+
+```julia
+julia> using InteractiveGeodynamics
+julia> convection()
+```
+![Convection](Convection.png)
+
+
+#### Exercises
+1. Perform the default setup, which simulates convection on an upper-mantle scale, with a slightly temperature-dependent viscosity (as indicated by the parameter $\gamma$).  What happens if you let it run with time? How much is the maximum viscosity contrast between the coldest and hottest part of the model?
+2. Do the same simulation with the same parameters but on the scale of a magma chamber (10 km wide by 5 km, which is a big mush chamber). Does it still convect with the default parameters?
+3. Play around with the viscosity prefactor $\eta_0$. When does it start convecting again?
+4. On Earth mantle rocks are strongly T-dependent (much more than what we simulate with the default simulation that has $\gamma=0.001$). Do the same simulation but with $\gamma=0.01$, which results in a viscosity contrast of around $10^6$. What happens with the lithosphere? Have a look at the horizontal velocity at the top of the lithosphere. Does it move?
+5. What are the stresses you obtain in this last simulation? On Earth, lithospheric plates clearly move, so there must be a mechanism to 'break' the lithosphere. In the simulation this is parameterised with a yield stress (a maximum stresses that can be reached in the rocks, set to 500 MPa by default). Use a lower value to 'break' the plate. What changes with the dynamics of the system?  
