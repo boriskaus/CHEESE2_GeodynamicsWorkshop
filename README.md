@@ -18,7 +18,7 @@ We have the following [schedule](Program-Computational-geodynamics-Modeling-Geol
 ### Required software
 Participants will have to install the following software:
 - [VSCode](https://code.visualstudio.com/download) This is the most widely used coding environment worldwide and provides support for julia.
-- [Julia](https://julialang.org) We will use julia to create model setups and run LaMEM. The easiest way to install julia these days is through [juliaup](https://github.com/JuliaLang/juliaup)
+- [Julia](https://julialang.org) We will use julia to create model setups and run LaMEM. The easiest way to install julia these days is through [juliaup](https://github.com/JuliaLang/juliaup). Once you did that, you can install the `LaMEM`, `GeophysicalModelGenerator` and `Plots` packages.
 - [Paraview](https://www.paraview.org) - This is a very powerful visualisation tool
 - [FileZilla Client](https://filezilla-project.org) - This allows you to upload/download files from remote servers,
 
