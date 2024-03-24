@@ -136,4 +136,4 @@ plot_cross_section(model, y=0, field=:temperature)
 savefig("03_T_falling_block_iso_viscous_free_surface_temp_rho_ph.png")
 #=============================== perform simulation ===========================================#
 
-run_lamem(model, 2)
+run_lamem(model, 1)

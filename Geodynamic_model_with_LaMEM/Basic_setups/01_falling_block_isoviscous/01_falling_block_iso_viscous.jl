@@ -92,4 +92,4 @@ plot_cross_section(model, y=0, field=:phase)
 savefig("01_falling_block_isoviscous.png")
 #=============================== perform simulation ===========================================#
 
-run_lamem(model, 2)
+run_lamem(model, 1)

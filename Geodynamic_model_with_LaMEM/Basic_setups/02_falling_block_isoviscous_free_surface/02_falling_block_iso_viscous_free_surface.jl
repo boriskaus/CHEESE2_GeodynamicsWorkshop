@@ -118,4 +118,4 @@ plot_cross_section(model, y=0, field=:phase)
 savefig("02_falling_block_iso_viscous_free_surface.png")
 #=============================== perform simulation ===========================================#
 
-run_lamem(model, 2)
+run_lamem(model, 1)

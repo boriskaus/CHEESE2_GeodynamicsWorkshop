@@ -104,4 +104,4 @@ savefig("falling_block_3D.png")
 
 #=============================== perform simulation ===========================================#
 
-run_lamem(model, 2)
+run_lamem(model, 1)
