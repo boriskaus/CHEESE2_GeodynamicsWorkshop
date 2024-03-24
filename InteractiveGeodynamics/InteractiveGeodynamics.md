@@ -16,6 +16,11 @@ julia> using InteractiveGeodynamics
 
 ### 1. Subduction dynamics
 We start with looking at the dynamics of subducting plates with a GUI that simulates the subduction of a single slab. We use a linear viscosity of the slab and mantle.  
+```julia
+julia> using InteractiveGeodynamics
+julia> folding()
+```
+
 ![Subduction](Subduction.png)
 
 #### Exercises
@@ -30,7 +35,12 @@ Sofar we have looked at cases with a free surface. Yet, many convection (and som
 
 
 ### 2. Viscous folding
-Next, we consider folding of viscous layers
+Next, we consider folding of viscous layers:
+```julia
+julia> using InteractiveGeodynamics
+julia> folding()
+```
+
 ![Folding](Folding.png)
 
 #### Exercises
@@ -51,4 +61,4 @@ Lets consider a case with 2 or more layers. If they are far apart and thin, they
 
 
 ### 3. Convection dynamics
-In our final example we will considrNext, we consider mantle convection. Compared to the 
+In our final example we will look at convection on different scales. Compared to the 
