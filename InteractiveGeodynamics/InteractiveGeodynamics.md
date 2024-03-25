@@ -32,11 +32,9 @@ julia> subduction()
   
   1.4) Look at the passive pattern on the slab. What happens if the viscosity of the slab is the same as the one of the mantle?
 
-Sofar we have looked at cases with a free surface. Yet, many convection (and some lithosphere dynamics codes), use a free slip upper boundary. Lets analyze what is different with a free slip boundary condition.
+  1.5) Sofar we have looked at cases with a free surface. Yet, many convection (and some lithosphere dynamics codes), use a free slip upper boundary. Lets analyze what is different with a free slip boundary condition. Do the simulation with default parameters, but with free slip upper boundary. How does it change the slab dynamics and the stresses?
   
-  1.5) Do the simulation with default parameters, but with free slip upper boundary. How does it change the slab dynamics and the stresses?
-  
-  1.6) Do simulations with a different viscosity contrast between slab and mantle. How does the slab bending radius depend on that?
+  1.6) Do simulations with a different viscosity contrast between slab and mantle. How does the slab bending radius depend on that? Use a free surface upper boundary
 
 
 ### 2. Viscous folding
