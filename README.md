@@ -9,7 +9,7 @@ Slides of the workshop will be uploaded to a seafile folder, for which you recei
 ### Schedule
 We have the following [schedule](Program-Computational-geodynamics-Modeling-Geological-Processes-using-European-Flagship-Codes.pdf) (note that we'll update links as the shortcourse progresses) 
 1. Intro
-2. Installing software and intro to julia
+2. [Installing software and intro to julia](Julia_intro/IntroJulia.md)
 3. Intro to computational geodynamics
 4. Geodynamic processes interactively 
 5. Geodynamic models using LaMEM #1
