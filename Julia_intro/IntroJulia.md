@@ -882,4 +882,4 @@ This map is easier to deal with. We also get an idea of the size of the map (in 
 ![Oberrhein_Cart](Oberrhein_cart.png)
 
 *Exercise c*
-The GeophysicalModelGenerator.jl package comes with many tutorials. Have a look at the tutorial [Generating LaMEM model](https://juliageodynamics.github.io/GeophysicalModelGenerator.jl/dev/man/LaPalma_example/) which shows how to create a 3D volcano setup.
+The GeophysicalModelGenerator.jl package comes with many tutorials. Have a look at the tutorial [Generating LaMEM model](https://juliageodynamics.github.io/GeophysicalModelGenerator.jl/dev/man/Tutorial_LaPalma/) which shows how to create a 3D volcano setup.
