@@ -18,7 +18,7 @@ julia> using InteractiveGeodynamics
 We start with looking at the dynamics of subducting plates with a GUI that simulates the subduction of a single slab. We use a linear viscosity of the slab and mantle.  
 ```julia
 julia> using InteractiveGeodynamics
-julia> folding()
+julia> subduction()
 ```
 
 ![Subduction](Subduction.png)
