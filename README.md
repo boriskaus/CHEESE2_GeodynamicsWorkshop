@@ -7,11 +7,11 @@ It is an in-person event, and will happen in room 01-114 of the NatFak (Geoscien
 Slides of the workshop will be uploaded to a seafile folder, for which you received a link via email. In this repository, we collect exercises.
 
 ### Schedule
-We have the following [schedule](Program-Computational-geodynamics-Modeling-Geological-Processes-using-European-Flagship-Codes.pdf) (note that we'll update links as the shortcourse progresses) 
+We have the following [schedule](Program-Computational-geodynamics-Modeling-Geological-Processes-using-European-Flagship-Codes.pdf) (note that we'll update links as the shortcourse progresses). Please click the blue links. 
 1. Intro
 2. [Installing software and intro to julia](Julia_intro/IntroJulia.md)
 3. Intro to computational geodynamics
-4. Geodynamic processes interactively 
+4. [Geodynamic processes interactively](InteractiveGeodynamics/InteractiveGeodynamics.md) 
 5. Geodynamic models using LaMEM #1
 6. Geodynamic models using LaMEM #2
    
