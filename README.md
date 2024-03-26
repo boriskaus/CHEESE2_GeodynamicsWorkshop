@@ -12,7 +12,7 @@ We have the following [schedule](Program-Computational-geodynamics-Modeling-Geol
 2. [Installing software and intro to julia](Julia_intro/IntroJulia.md)
 3. Intro to computational geodynamics
 4. [Geodynamic processes interactively](InteractiveGeodynamics/InteractiveGeodynamics.md) 
-5. Geodynamic models using LaMEM #1
+5. [Geodynamic models using LaMEM #1](Geodynamic_model_with_LaMEM/README.md)
 6. Geodynamic models using LaMEM #2
    
 ### Required software
